@@ -1,5 +1,5 @@
 # OutbreakBot
-#Esto es un proyecto de aprendizaje en python, no está terminado ni te dará un resultado bueno. Solo es una practica en este lenguaje y para afianzar conocimientos.
+# Esto es un proyecto de aprendizaje en python, no está terminado ni te dará un resultado bueno. Solo es una practica en este lenguaje y para afianzar conocimientos.
 
 ¡Bienvenido a OutbreakBot! Este es tu compañero ideal para automatizar estrategias de trading en MetaTrader 5 usando Python.
 
